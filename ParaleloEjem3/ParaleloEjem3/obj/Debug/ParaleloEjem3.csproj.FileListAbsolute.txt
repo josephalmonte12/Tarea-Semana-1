@@ -1,0 +1,10 @@
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\bin\Debug\ParaleloEjem3.exe.config
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\bin\Debug\ParaleloEjem3.exe
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\bin\Debug\ParaleloEjem3.pdb
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.csproj.AssemblyReference.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.Form1.resources
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.Properties.Resources.resources
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.csproj.GenerateResource.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.exe
+C:\Users\Joseph Almonte\source\repos\ParaleloEjem3\ParaleloEjem3\obj\Debug\ParaleloEjem3.pdb

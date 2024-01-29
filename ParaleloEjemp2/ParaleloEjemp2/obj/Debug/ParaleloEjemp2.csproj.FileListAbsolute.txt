@@ -1,0 +1,10 @@
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\bin\Debug\ParaleloEjemp2.exe.config
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\bin\Debug\ParaleloEjemp2.exe
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\bin\Debug\ParaleloEjemp2.pdb
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.csproj.AssemblyReference.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.Form1.resources
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.Properties.Resources.resources
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.csproj.GenerateResource.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.exe
+C:\Users\Joseph Almonte\source\repos\ParaleloEjemp2\ParaleloEjemp2\obj\Debug\ParaleloEjemp2.pdb
